@@ -1,2 +1,2 @@
 # cpp
-Some c++ programs made for practice.
+Some development in c++
